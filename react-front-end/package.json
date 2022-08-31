@@ -6,7 +6,7 @@
     "antd": "^3.20.5",
     "axios": "^0.18.0",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "react": "^16.8.6",
     "react-countdown-now": "^2.1.1",
     "react-dom": "^16.8.6",
